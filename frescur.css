@@ -3,10 +3,10 @@
  body 
 {
         background-color: red ;
-  background-image: linear-gradient(to right, black, orange);
+  background-image: linear-gradient(to right, red, orange);
   text-align: center;
 }
-
+ 
 
 
 p {
@@ -18,8 +18,8 @@ p {
   line-height:1.5em;
 }
 
-li {
- color:  rgb(0, 0, 0);
+a {
+ color:blue;
   text-align: center;
     text-decoration: none;
   font-size: 160%;
@@ -37,14 +37,14 @@ li {
 img {
  text-align: center;
 }
-p
+h1
 { 
  color:dark gray;
  font-Size: 30 pt;
  font-family: Arial;
  text-align: center;
 }
-p2
+h2
 {
   color:dark gray;
  font-Size: 25 pt;
@@ -65,3 +65,4 @@ font-size:40 pt;
 font-family:arial;
 text-aling: center;
 }
+ 
